@@ -1,4 +1,4 @@
-# pugsToonhud
+# pug' s Toonhud
 My modified version of toonhud; a custom hud for the popular game Team Fortress 2
 
 # How to Install:
